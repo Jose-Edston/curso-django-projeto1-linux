@@ -1,1 +1,1 @@
-pyprint("Hello")
+print("Hello")
